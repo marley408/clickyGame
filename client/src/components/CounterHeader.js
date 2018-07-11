@@ -21,7 +21,7 @@ class CounterHeader extends React.Component {
         <div className="container">
           <div className="card text-center">
             <div className="card-header bg-primary text-white">
-              <h3 className="card-title"> Click Counter</h3>
+              <h3 className="card-title"> Clicky Game</h3>
               <p className="card-text">Score: {this.props.score} | Top Score: {this.props.topScores}</p>
             </div>
           </div>

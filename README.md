@@ -1,6 +1,6 @@
 # clickyGame
 
-Overview
+
 This app is a memory game with React. This project required me to break up my application's UI into components, manage component state, and respond to user events. It's made by following up the instruction below:
 
 Create a new React application using Create React App.
@@ -13,4 +13,4 @@ Every time an image is clicked, the images rendered to the page should shuffle t
 
 Once the user's score is reset after an incorrect guess, the game should restart.
 
-![pic1](/client/public/images/clickyPic.png)
+![pic1](/client/public/images/clickyImg.png)
